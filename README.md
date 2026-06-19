@@ -128,7 +128,7 @@ npm run build
 
 ## License
 
-Unlicense. Do whatever the fuck you want with it.
+CC0. Do whatever the fuck you want with it.
 
 ---
 
